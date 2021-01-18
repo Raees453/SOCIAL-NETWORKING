@@ -1,0 +1,4 @@
+1ALI WAJDAN PASHA,bitf19m042@pucit.edu.pk,123,03000000000,M
+2QAIS RASOOL,bitf19m041@pucit.edu.pk,1234,03000000000,M
+3ZIA ULLAH,bitf19m033@pucit.edu.pk,12345,03000000000,M
+4test,test@pucit.edu.pk,test,03030303303,m
